@@ -1,0 +1,7 @@
+i know the following skills :
+java
+paython
+spring
+html
+css
+oracle
